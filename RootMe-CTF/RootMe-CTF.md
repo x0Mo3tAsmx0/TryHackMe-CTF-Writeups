@@ -1,19 +1,3 @@
----
-title: "TryHackMe - RootMe Room Writeup"
-author: Motasm Elsayed
-subject: "Try Hack Me CTF Writeup"
-keywords: [THM, TryHackMe, CTF, Web Exploitation, Privilege Escalation]
-lang: "en"
-titlepage: true
-titlepage-text-color: "FFFFFF"
-titlepage-color: "1c2538"
-titlepage-rule-color: "c11111"
-titlepage-logo: "./Screenshots/TryHackMe_logo.png"
-logo-width: 250pt
-toc: true
-toc-own-page: true
-...
-
 ![Challenge official cover](./Screenshots/cover%20image.png)
 
 **Challenge description:** This easy challenge tests your knowledge of basic web enumeration techniques, exploiting file upload vulnerabilities, and privilege escalation techniques. 
